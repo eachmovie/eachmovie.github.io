@@ -1,16 +1,17 @@
 # eachmovie.github.io
 
-This is the historical EachMovie repository, holding artifacts from EachMovie. All files here are public-access. A second repository on Zenodo will hold controlled-access files for use by researchers and historians.
+**EachMovie** (1995–97) was designed, implemented, and operated at Digital Equipment Corporation’s Systems Research Center (DEC SRC) in Palo Alto, California, and is believed to be the first production-scale latent recommender system; latent-factor models later became the dominant recommender-system technology, especially following their success in the Netflix Prize competition (2006–09). EachMovie is described in John DeTreville’s thirty-year retrospective paper “[EachMovie: archaeology of a first latent recommender system](https://doi.org/10.1145/3773078.3831738)” presented at the _20th ACM Conference on Recommender Systems_ (ACM RecSys ’26), September 27–October 02, 2026, Minneapolis, MN, USA.
+
+This is the EachMovie repository on GitHub, holding public-access artifacts. A second [EachMovie repository](https://zenodo.org/communities/eachmovie/records) on Zenodo hold controlled-access files for use by researchers and historians.
 
 ## UNDER CONSTRUCTION
 
-The Center for Open Science originally hosted these repositories at their OSF.io site, but they announced on 2026-08-11 that they will phase out their support due to lack of funding, starting 2026-11-16 and ending 2027-02-19. The contents are now being moved to eachmovie.github.io and Zenodo for the long run.
+As of 2026-08-27, the new EachMovie repositories are still under construction.
 
-## Introduction
+## Notes on provenance & archival status
 
-EachMovie (1995–97) was an early research website designed, implemented, and operated at Digital Equipment Corporation's Systems Research Center (DEC SRC) that recommended movies to its users using latent-factor models of their tastes. EachMovie's goal was to create highly personalized movie recommendations for its users. Its calculations were quite involved for its time, but the results obtained were the state of the art.
+Many of the source code files and other historical assets here were originally developed at Digital Equipment Corporation and are now part of the historical legacy maintained by Hewlett Packard Enterprise (HPE). 
 
-EachMovie is believed to be the first production-scale latent recommender system; it went live online a full decade before the Netflix Prize competition. EachMovie worked surprisingly well, cultivating a high degree of user engagement and trust, and noted movie critic Roger Ebert called it “uncannily accurate.”
-
-I am John DeTreville, author of "EachMovie: archaeology of a first latent recommender system", to appear at the 20th ACM Conference on Recommender Systems in Minneapolis, MN, USA. I was the originator of and principal researcher for EachMovie at DEC SRC, and I am the current maintainer of eachmovie.github.io.
-
+* **Archival Intent:** These materials are preserved and shared strictly for non-commercial, educational, and software history preservation purposes under US “Fair Use” educational principles.
+* **Access Control:** To respect the historical provenance, some of historical materials, including the original source code and raw data, are maintained under restricted access for verified academic researchers and historians.
+* **Rights & Inquiries:** Every effort has been made to contact the current corporate successors regarding the contents of this archive. For any rights inquiries or administrative requests, please contact `john+eachmovie@detreville.org`.
