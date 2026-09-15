@@ -1,0 +1,31 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Code Editor settings
+.vscode/
+
+# Core LaTeX auxiliary files
+*.aux
+*.log
+*.toc
+*.lof
+*.lot
+*.out
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.pdfsync
+
+# TikZ-specific externalization caches (if used)
+*.dpth
+*.md5
+*.gnuplot
+*.table
+
+# TeXShop-specific temporary workspace files
+*.gz
+comment.cut
