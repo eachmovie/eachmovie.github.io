@@ -12,7 +12,7 @@ As of 2026-09-14, the new EachMovie repositories are still under construction.
 
 ### Source and author's version
 
-The EachMovie paper for ACM RecSys 2026 has not yet been published by the ACM. The [LaTeX](LaTeX/) directory in this repository contains the paper's sources, including the [author's version](LaTeX/acmrecsys2026.pdf) in PDF.
+The EachMovie paper for ACM RecSys 2026 has not yet been published by the ACM. The [LaTeX](https://github.com/eachmovie/eachmovie.github.io/tree/main/LaTeX) directory in this repository contains the paper's sources, including the [author's version](LaTeX/acmrecsys2026.pdf) in PDF.
 
 ### Slides and presenter notes
 
