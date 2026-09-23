@@ -16,7 +16,7 @@ The EachMovie paper for ACM RecSys 2026 has not yet been published by the ACM. T
 
 ## ACM RecSys 2026 slides and presenter notes
 
-This [Talk](https://github.com/eachmovie/eachmovie.github.io/tree/main/Talk)  directory holds the EachMovie talk planned for ACM RecSys 2026. The slides are in [PowerPoint](Talk/EachMovie- archaeology of a first latent recommender system.pptx) or [PDF](Talk/EachMovie- archaeology of a first latent recommender system.pdf) (without the animations). Most source materials for the slides are easily extracted from the PowerPoint. The trickier presenter notes are copied alongside, along with the unmuted [EachMovie music video](Talk/EachMovie music video.mp4) and the very funny [wrong giraffe chart](Talk/Wrong giraffe chart.png).
+This [Talk](https://github.com/eachmovie/eachmovie.github.io/tree/main/Talk)  directory holds the EachMovie talk planned for ACM RecSys 2026. The slides are in [PowerPoint](Talk/EachMovie-%20archaeology%20of%20a%20first%20latent%20recommender%20system.pptx) or [PDF](Talk/EachMovie-%20archaeology%20of%20a%20first%20latent%20recommender%20system.pdf) (without the animations). Most source materials for the slides are easily extracted from the PowerPoint. The trickier presenter notes are copied alongside, along with the unmuted [EachMovie music video](Talk/EachMovie%20music%20video.mp4) and the very funny [wrong giraffe chart](Talk/Wrong%20giraffe%20chart.png).
 
 
 
