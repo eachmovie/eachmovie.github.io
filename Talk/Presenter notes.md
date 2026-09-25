@@ -128,13 +128,13 @@ Makes you wonder. Yeah. Yeah. Really, really makes you wonder. ［⏹］
 
 # SLIDE 17
 
-［Stand Up Straight and face audience, visible arm akimbo, fist visible on waist］［😊 😊 😊］
+［Stand Up Straight and face audience, arms akimbo, fists on waist］［😊 😊 😊］
 
-So NOW it’s time for QUESTIONS! ANYONE? I’m playing this fabulous SILENT MUSIC VIDEO to help EVERYONE think of EASY QUESTIONS with EASY ANSWERS!!!
+So NOW it’s time for QUESTIONS! ANYONE? This fabulous SILENT MUSIC VIDEO will help EVERYONE think of EASY QUESTIONS with EASY ANSWERS!!!
 
 ［⏹］ ［move downstage center as video starts. as music plays, strip off gray embroidered overshirt to expose bright orange T-shirt emblazoned with GOT QUESTIONS?, then return to lectern just as brief music fades while video plays on］
 
-［😊］ Here are some TOPICS for CONVERSATION! Anyone?
+［💡］ Here are some TOPICS for CONVERSATION! Anyone?
 
 ［take questions］
 
