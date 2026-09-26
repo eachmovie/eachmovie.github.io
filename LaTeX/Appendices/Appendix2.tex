@@ -1,0 +1,36 @@
+\documentclass[nonacm,manuscript,screen,microtype={protrusion=true,expansion,kerning,spacing}]{acmart}
+\usepackage{amsmath}
+\usepackage{mathtools}
+\usepackage[english]{babel}
+\usepackage{graphicx, lettrine}
+\usepackage{calc}
+\usepackage{bm}
+\usepackage{epigraph}
+
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usetikzlibrary{backgrounds}
+
+\begin{document}
+
+\title{Errata}
+\subtitle{``EachMovie: archaeology of a first latent recommender system''}
+\author{John DeTreville}
+\email{john@detreville.org}
+
+\maketitle{}
+
+\section*{Factual errata}
+
+In the published proceedings of ACM RecSys 2026, my paper ``EachMovie: archaeology of a first latent recommender system''~\cite{DeTreville2026EachMovie_paper} includes two small mistakes, corrected here.
+\begin{enumerate}
+
+\item The published paper references a ``permanent'' EachMovie artifact repository at the Center for Open Science. Shortly \emph{after} the paper's camera-ready deadline, though, the Center announced they can no longer host such repositories. That repository now contains permanent forwarding pointers to two fresh repositories on GitHub~\cite{EachMovieGitHub} and Zenodo~\cite{EachMovieZenodo}.
+
+  \item The published paper says the EachMovie patent~\cite{DeTrevillePatent2000} was issued June~30, 2000, but that should be June~\emph{20}, 2000. (United States patents are issued on Tuesdays, not Fridays.)
+\end{enumerate}
+
+\bibliographystyle{ACM-Reference-Format}
+\bibliography{Appendix2.bib}
+
+\end{document}
