@@ -6,7 +6,7 @@ This is the EachMovie repository on GitHub, holding public-access artifacts. A s
 
 ## !!! UNDER CONSTRUCTION !!!
 
-As of 2026-09-23, the new EachMovie repositories are still under construction.
+As of 2026-09-26, the new EachMovie repositories are still under construction.
 
 ## ACM RecSys 2026 paper
 
@@ -14,13 +14,19 @@ As of 2026-09-23, the new EachMovie repositories are still under construction.
 
 The EachMovie paper for ACM RecSys 2026 has not yet been published by the ACM. The [LaTeX](https://github.com/eachmovie/eachmovie.github.io/tree/main/LaTeX) directory contains the paper's sources, including the [author's version](LaTeX/acmrecsys2026.pdf) in PDF.
 
+There are also two last-minutes appendices to the paper: one for an [Editorial](LaTeX/Appendices/Appendix1.pdf), and another for [Errata](LaTeX/Appendices/Appendix2.pdf).
+
 ## ACM RecSys 2026 slides and presenter notes
 
 This [Talk](https://github.com/eachmovie/eachmovie.github.io/tree/main/Talk)  directory holds the EachMovie talk planned for ACM RecSys 2026. The slides are in [PowerPoint](Talk/EachMovie-%20archaeology%20of%20a%20first%20latent%20recommender%20system.pptx) or [PDF](Talk/EachMovie-%20archaeology%20of%20a%20first%20latent%20recommender%20system.pdf) (without the animations). Most source materials for the slides are easily extracted from the PowerPoint. The trickier presenter notes are copied alongside, along with the unmuted [EachMovie music video](Talk/EachMovie%20music%20video.mp4) and the very funny [wrong giraffe chart](Talk/Wrong%20giraffe%20chart.png).
 
-
-
 ## Supporting materials
+
+### Artifacts
+
+Some EachMovie [artifacts](https://github.com/eachmovie/eachmovie.github.io/tree/main/Artifacts) are now included. This includes EachMovie's static [website](https://github.com/eachmovie/eachmovie.github.io/tree/main/Artifacts/Website) from September 1996, which itself includes Volume 4 of the [EachMovie Mailbag](Artifacts/Website/MAILBAG.HTM). 
+
+### Others
 
 Other supporting materials for the paper are to come. These include:
 

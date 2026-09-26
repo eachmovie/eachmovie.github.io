@@ -1,0 +1,65 @@
+\documentclass[nonacm,manuscript,screen,microtype={protrusion=true,expansion,kerning,spacing}]{acmart}
+\usepackage{amsmath}
+\usepackage{mathtools}
+\usepackage[english]{babel}
+\usepackage{graphicx, lettrine}
+\usepackage{calc}
+\usepackage{bm}
+\usepackage{epigraph}
+
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usetikzlibrary{backgrounds}
+
+\begin{document}
+
+\title{Editorial: Past, Present, and Future}
+\subtitle{``EachMovie: archaeology of a first latent recommender system''}
+\author{John DeTreville}
+\email{john@detreville.org}
+
+\maketitle{}
+
+\section*{Introduction}
+
+My ACM RecSys 2026 paper ``EachMovie: archaeology of a first latent recommender system''~\cite{DeTreville2026EachMovie_paper} is part of that conference's decennial ``Past, Present \& Future'' track. My conference presentation includes some additional material not in the paper. This Editorial briefly lists a couple of the new points introduced there.
+
+\emph{Warning}: The conference presentation includes this new material in a deliberately personal Editorial context. That same personal perspective continues here. This is all just my opinion. This is a too-brief Editorial.
+
+\section{Past}
+
+As noted in the paper, EachMovie cultivated a high degree of user engagement and trust. Its users \emph{wanted} to use EachMovie, and to help it model their tastes and their souls.\footnote{The reference to ``souls'' here is deliberate. Movies, done well, reflect the human soul, and they shape the human soul. This is true of all good art. I posit that latent recommender systems for humans have a similar \emph{potential} to reflect the human soul (via their users' votes as carried into its internal models) and to shape the human soul (via their recommendations to their users). I believe this is true regardless of our current systems' massive shortcomings.}
+
+EachMovie's users were invited to write in, and many did~\cite{EachMovieMailbag}. One particular respondent wrote:
+
+\begin{quote}
+  \emph{\large I've been using it for two months, and it's eerily good at predicting what I'll like~\ldots{} One of my favorite games with EachMovie is to enter a bogus rating, just to see how it affects the predictions; when I revert to my true opinion, EachMovie recalculates all its predictions instantly.~\ldots{} A better predictor, and more fun to use.~\cite{AnonymousRespondent}}
+\end{quote}
+
+The manner in which this user twiddled EachMovie's knobs is like a textbook example of \emph{human agency}~\cite{Bandura2001Agency} in an online system~\cite{Sundar2020}. This human user (whom I recognized as a former colleague) could act intentionally; she could control her environment; and she could shape her experiences. In short, EachMovie \emph{let her drive.}
+
+The EachMovie team did not plan for this most excellent outcome. It was an emergent property, but a very welcome one. It was completely accidental, but I would argue that this is exactly the type of outcome we should try to replicate in our modern recommender systems.
+
+\subsection{Letting users drive}
+
+Letting users drive is the important contribution of this Editorial. But read on anyway.
+
+\section{Present}
+
+That was then (1996) and this is now (2026). My historical paper's Conclusions section was called ``Back to the future,'' and arguably followed the rather anodyne conclusion of that movie~\cite{Zemeckis1985BTTF}. This new editorial content in the conference presentation more closely follows the unplanned sequel ``Back to the Future Part II''~\cite{Zemeckis1989BTTF2}.
+
+Our own current world can then be viewed as a divergent timeline, as in that second movie. Biff Tannen\footnote{Biff Tannen is the movie's bad guy, who gains excessive control over the dystopian ``Hell Valley'' by unscrupulous means.} is running the casino, and he's dialing the figurative doomscrollamine\footnote{This very recent neologism is from Andrew Marlton~\cite{Marlton2026Doomscrollamine}. It combines ``doomscroll'' with ``dopamine,'' the chemical that floods the brain following rewards, helping to create addiction via neuroplasticity. That is not a good combination.} all the way up to 11. Ours is arguably the wrong timeline. We're all doomed. Or maybe not. Let's hope not.
+
+\section{Future}
+\epigraph{\raggedleft{} Yes, there are two paths you can go by, \\ but in the long run \\ There's still time to change the road you're on.}{\textit{Stairway to Heaven}, Robert Plant, 1971}
+
+What to do? I do not know, but it ``really makes me wonder''~\cite{LedZeppelin1971Stairway}. Perhaps the first step is to build systems to help users drive again.
+
+\begin{acks}
+My wife is the fabulous Laurie Shaw-DeTreville. Many thanks to Laurie, and to Christine Seawell (UCI~English) as well, for so quickly reviewing drafts of these appendices, and for so patiently listening to me tell them all about my work over so many decades.
+\end{acks}
+
+\bibliographystyle{ACM-Reference-Format}
+\bibliography{Appendix1.bib}
+
+\end{document}
