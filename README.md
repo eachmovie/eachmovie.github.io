@@ -26,6 +26,10 @@ This [Talk](https://github.com/eachmovie/eachmovie.github.io/tree/main/Talk)  di
 
 Some EachMovie [artifacts](https://github.com/eachmovie/eachmovie.github.io/tree/main/Artifacts) are now included. This includes EachMovie's static [website](https://github.com/eachmovie/eachmovie.github.io/tree/main/Artifacts/Website) from September 1996, which itself includes Volume 4 of the [EachMovie Mailbag](Artifacts/Website/MAILBAG.HTM). 
 
+### Cartoons
+
+While working with the ACM on rights review, I amused myself by creating a series of humorous [cartoons](https://github.com/eachmovie/eachmovie.github.io/tree/main/Cartoons) as derived works as if from _Coyote vs ACM_ (2026). (One of these was generated spontansously by Google Gemini 3 without my asking.)
+
 ### Others
 
 Other supporting materials for the paper are to come. These include:
