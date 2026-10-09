@@ -1,24 +1,30 @@
 # eachmovie.github.io
 
-**EachMovie** (1995–97) was designed, implemented, and operated at Digital Equipment Corporation’s Systems Research Center (DEC SRC) in Palo Alto, California, and is believed to be the first production-scale latent recommender system; latent models later became the dominant technology for recommender systems, especially following their success in the Netflix Prize competition (2006–09). EachMovie is described in John DeTreville’s thirty-year retrospective paper “[EachMovie: archaeology of a first latent recommender system](https://doi.org/10.1145/3773078.3831738)” to appear at the _20th ACM Conference on Recommender Systems_ (ACM RecSys ’26), September 27–October 02, 2026, Minneapolis, MN, USA.
+**EachMovie** (1995–97) was designed, implemented, and operated at Digital Equipment Corporation’s Systems Research Center (DEC SRC) in Palo Alto, California, and is believed to be the first production-scale latent recommender system. (Latent models later became the dominant technology for recommender systems, especially following their success in the 2006–09 Netflix Prize competition.) EachMovie is described in John DeTreville’s thirty-year retrospective paper “[EachMovie: archaeology of a first latent recommender system](https://doi.org/10.1145/3773078.3831738)” to appear at the _20th ACM Conference on Recommender Systems_ (ACM RecSys ’26), September 27–October 02, 2026, Minneapolis, MN, USA.
 
 This is the EachMovie repository on GitHub, holding public-access artifacts. A second [EachMovie repository on Zenodo](https://zenodo.org/communities/eachmovie/about) holds controlled-access files for use by researchers and historians.
 
 ## !!! UNDER CONSTRUCTION !!!
 
-As of 2026-09-26, the new EachMovie repositories are still under construction.
+As of 2026-10-09, the new EachMovie repositories are still under construction.
 
 ## ACM RecSys 2026 paper
 
 ### Source and author's version
 
-The EachMovie paper for ACM RecSys 2026 has not yet been published by the ACM. The [LaTeX](https://github.com/eachmovie/eachmovie.github.io/tree/main/LaTeX) directory contains the paper's sources, including the [author's version](LaTeX/acmrecsys2026.pdf) in PDF.
+The [EachMovie paper](https://dl.acm.org/doi/10.1145/3773078.3831738) for ACM RecSys 2026 is available from the ACM Digital Library.
 
-There are also two last-minutes appendices to the paper: one for an [Editorial](LaTeX/Appendices/Appendix1.pdf), and another for [Errata](LaTeX/Appendices/Appendix2.pdf).
+The [LaTeX](https://github.com/eachmovie/eachmovie.github.io/tree/main/LaTeX) directory here contains the paper's sources, including the [author's version](LaTeX/acmrecsys2026.pdf) in PDF. There are also two last-minutes appendices to the paper: one for an [Editorial](LaTeX/Appendices/Appendix1.pdf), and another for [Errata](LaTeX/Appendices/Appendix2.pdf).
 
 ## ACM RecSys 2026 slides and presenter notes
 
-This [Talk](https://github.com/eachmovie/eachmovie.github.io/tree/main/Talk)  directory holds the EachMovie talk planned for ACM RecSys 2026. The slides are in [PowerPoint](Talk/EachMovie-%20archaeology%20of%20a%20first%20latent%20recommender%20system.pptx) or [PDF](Talk/EachMovie-%20archaeology%20of%20a%20first%20latent%20recommender%20system.pdf) (without the animations). Most source materials for the slides are easily extracted from the PowerPoint. The trickier presenter notes are copied alongside, along with the unmuted [EachMovie music video](Talk/EachMovie%20music%20video.mp4) and the very funny [wrong giraffe chart](Talk/Wrong%20giraffe%20chart.png).
+A [handmade recording of the presentation](https://youtu.be/QEdSbIluqDc) of the EachMovie paper at ACM RecSys 2026 is available [on YouTube](https://youtu.be/QEdSbIluqDc). (Be sure to *LIKE* and *SUBSCRIBE* !!!)
+
+This [Talk](https://github.com/eachmovie/eachmovie.github.io/tree/main/Talk)  directory holds the EachMovie talk for ACM RecSys 2026. The slides are in [PowerPoint](Talk/EachMovie-%20archaeology%20of%20a%20first%20latent%20recommender%20system.pptx) or [PDF](Talk/EachMovie-%20archaeology%20of%20a%20first%20latent%20recommender%20system.pdf) (without the animations). Most source materials for the slides are easily extracted from the PowerPoint. The trickier presenter notes are copied alongside, along with the unmuted [EachMovie music video](Talk/EachMovie%20music%20video.mp4) and the very funny [wrong giraffe chart](Talk/Wrong%20giraffe%20chart.png).
+
+## ACM RecSys 2026 (other)
+
+The [EachMovie video submission](https://youtu.be/5t9zsFPCS1o) for the “20×20 Retrospective Track” at ACM RecSys 2026 is available [on YouTube](https://youtu.be/5t9zsFPCS1o).
 
 ## Supporting materials
 
@@ -28,7 +34,7 @@ Some EachMovie [artifacts](https://github.com/eachmovie/eachmovie.github.io/tree
 
 ### Cartoons
 
-While working with the ACM on rights review, I amused myself by creating a series of humorous [cartoons](https://github.com/eachmovie/eachmovie.github.io/tree/main/Cartoons) as derived works as if from _Coyote vs ACM_ (2026). (One of these was generated spontansously by Google Gemini 3 without my asking.)
+While working with the ACM on rights review, I amused myself by creating a series of humorous [cartoons](https://github.com/eachmovie/eachmovie.github.io/tree/main/Cartoons) as derived works as if from _Coyote vs ACM_ (2026). (One of these was generated spontansously by Google Gemini 3 without my ever asking.)
 
 ### Others
 
